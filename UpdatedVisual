@@ -1,1 +1,3 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/PtacikCZ/PSX/main/Script.Lua')))()
+--[[ PtacikCZ Scriptz Visual]]-- 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PtacikCZ/Repository/main/SummerVisual"))()
