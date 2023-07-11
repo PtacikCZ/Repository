@@ -1,4 +1,1 @@
---[[ PtacikCZ Scriptz Visual]]-- 
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PtacikCZ/Repository/main/SummerVisual"))()
-
